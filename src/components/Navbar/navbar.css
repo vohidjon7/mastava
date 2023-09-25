@@ -1,0 +1,51 @@
+.navbar{
+    width: 100%;
+    height: 150px;
+}
+.nv_box1{
+    width: 100%;
+    height: 44px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.31);
+}
+.df{
+    width: 100%;
+    height: 44px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 70px;
+    padding-right: 100px;
+}
+.df p{
+    font-weight: 650;
+    font-size: 14px;
+    margin-top: 7px;
+    font-style: normal;
+}
+.nv_box2{
+    width: 100%;
+    height: 106px;
+}
+.nv_box1_1{
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+    align-items: center;
+    height: 44px;
+    margin-top: -10px;
+}
+.link{
+    text-decoration: none;
+    color: black;
+    font-weight: 650;
+    font-size: 14px;
+}
+.link:hover{
+    color: red;
+}
+.dr{
+    border: 1px solid rgba(0, 0, 0, 0.205);
+}
+.dr:hover{
+    border: 1px solid rgba(0, 0, 0, 0.205);
+}
