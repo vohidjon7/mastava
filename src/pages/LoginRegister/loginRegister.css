@@ -54,7 +54,7 @@
 }
 .rg_box2{
     width: 100%;
-    min-height: 100vh;
+    min-height: 100vh;  
     display: flex;
     justify-content: center;
 }
@@ -129,4 +129,13 @@
     margin-top: 20px;
     margin-left: 330px;
     margin-right: 28px;
+}
+.rg_books{
+    width: 100%;
+    height: 100vh;
+}
+.books_cn{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
 }

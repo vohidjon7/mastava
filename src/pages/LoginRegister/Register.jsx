@@ -79,6 +79,18 @@ function Register(props) {
                         </form>
                     </div>
                 </div>
+                    <div className="rg_books">
+                        <div className="container books_cn">
+                            <div className="rg_books_1">
+                                <h2>Featured Products</h2>
+                                <div className="rg_books_1_1">
+
+                                </div>
+                            </div>
+                            <div className="rg_books_1"></div>
+                            <div className="rg_books_1"></div>
+                        </div>
+                    </div>
             </div>
         </div>
     );
